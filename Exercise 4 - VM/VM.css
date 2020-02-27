@@ -1,0 +1,140 @@
+
+	h1 {
+			text-align: center;
+			font-size: 24pt;
+			text-shadow: 1px 1px white;
+			font-family: 'Arial', cursive;
+			
+	} 
+	
+
+	
+	h2 { 
+		color: #5D7835;
+		text-shadow: 1px 1px white;
+		font-size: 16pt;
+		text-indent: 15px;
+			font-family: 'Arial', cursive;
+		
+	}
+	
+	a {
+		color: #5D7835;
+		text-shadow: 1px 1px white;
+		font-size: 12pt;
+		text-indent: 15px;
+			font-family: 'Arial', cursive;
+	}
+	
+	}
+		img { 
+	text-align: center;
+
+	}
+
+	p{	font-family: 'Arial', cursive;}
+
+.large {
+
+				border:			  5px solid brown;
+				box-shadow:		  0px 0px 50px black;
+				width:            1000px;
+				height:			  auto;
+				background-color:rgba(255,255,255,0.5);
+		
+			
+		}
+					
+
+.left{
+		text-align: left;
+			font-size: 24pt;
+			font-family: 'Arial', cursive;
+			
+}
+
+
+
+
+					body {
+						background-image:      url('Trees.jpg');
+						background-repeat:     no-repeat;
+						background-size:       cover;
+						background-attachment: fixed;
+						background-position:   center;		
+					}
+					
+				ul{ 
+			text-align: left;
+						font-size: 12pt;
+						font-family: 'Arial', cursive;
+				}	
+					.big {
+
+						border:			  5px solid brown;
+						box-shadow:		  0px 0px 50px black;
+						right:            100px;
+						top:              100px;
+						width:            600px;
+				background-color:rgba(255,255,255,0.5);
+				float: left;				
+				margin-top: 50px;
+				margin-bottom: 50px;
+				margin-left: 50px;	
+				padding: 50px 50px 50px 50px;	
+						}
+					
+			  div {
+						background-color:rgba(255,255,255,0.5);
+						border:			  5px solid brown;
+						box-shadow:		  0px 0px 50px black;
+						right:            40px;
+						top:              40px;
+						width:  			400px;		
+						float: right;
+				margin-top: 190px;
+				margin-bottom: 50px;
+				margin-right: 50px;	
+				padding: 50px 50px 50px 50px;	
+						}
+					
+					table, th, td {
+						border-bottom: 	1px solid #DDDDDD;
+						text-align: 	center;
+						}
+					
+					table {
+						border-collapse: collapse;
+						width:			 400px;
+					}
+						
+					tr:nth-child(even) {
+						background-color: #5D7835;
+					}
+						
+					tr:nth-child(odd) {
+						background-color: #9FA395;
+					}
+					
+					td:hover {
+						background-color: brown;
+						color:			  white;
+						text-shadow: 1px 1px black;
+					}
+					
+					th,td {
+						padding: 10px;
+					}
+					
+					th{
+						background-color: #9FA395;
+						color:			  white;
+					}
+					
+					h1 { 
+						color: black; 
+					font-family: 'Trade Winds', ;
+					
+					
+					}
+	
